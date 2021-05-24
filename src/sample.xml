@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<asclepie>
+    <location city="Minsk" street="Matusevicha st." house="12">
+        <medicine name="Protargol" amount="19" price="2" />
+        <medicine name="Nuoren" amount="11" price="5" />
+        <medicine name="Amikacin" amount="9" price="4" />
+    </location>
+    <location city="Brest" street="Chirvonaya st." house="6">
+        <medicine name="Nazivin" amount="49" price="9" />
+        <medicine name="Cefaclor" amount="23" price="17" />
+        <medicine name="Crizotinib" amount="15" price="6" />
+    </location>
+    <location city="Zhodino" street="Derevyanko st." house="16">
+        <medicine name="Codeine" amount="29" price="10" />
+        <medicine name="Diclofenac" amount="53" price="8" />
+        <medicine name="Amikacin" amount="10" price="5" />
+    </location>
+    <location city="Pinsk" street="Vasilkovaya st." house="8">
+        <medicine name="Nuoren" amount="31" price="4" />
+        <medicine name="Nazivin" amount="89" price="11" />
+        <medicine name="Crizotinib" amount="45" price="7" />
+    </location>
+</asclepie>

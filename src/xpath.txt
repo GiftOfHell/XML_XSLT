@@ -1,0 +1,5 @@
+count(//location[@city='Brest']/medicine)
+//location[@city='Brest']/medicine
+//medicine[@price < 8]
+//location[medicine/@amount > 30]
+//location[medicine/@name = 'Amikacin']
